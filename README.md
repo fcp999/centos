@@ -16,3 +16,5 @@ iptables -S
 
 yum -y install epel-release htop iotop nano wget curl 
 
+find / -name NetScout
+
