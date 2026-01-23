@@ -64,7 +64,7 @@ export NUM_FWD_CPUS=0
  
  
  
- netscout mac 04:9f:81
+ netscout mac 04:9f:81  00:80:8C  00:A0:0E D8:E7:2B
  --
  nc -lk 80 >>80.txt &
 nc -lk 8080 >>8080.txt &
